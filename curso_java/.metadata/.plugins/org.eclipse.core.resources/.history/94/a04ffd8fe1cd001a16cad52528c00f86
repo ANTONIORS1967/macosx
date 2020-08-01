@@ -1,0 +1,21 @@
+package colecoes;
+
+import java.util.SortedSet;
+import java.util.TreeSet;
+
+public class ConjuntoComportado {
+
+	public static void main(String[] args) {
+
+		SortedSet<String> listaAprovado =new TreeSet<String>();
+		listaAprovado.add("Ana");
+		listaAprovado.add("Carlos");
+		listaAprovado.add("Luca");
+		listaAprovado.add("Pedro");
+		
+		for(String candidato:listaAprovado) {
+			System.out.println(candidato);
+		}
+	}
+
+}

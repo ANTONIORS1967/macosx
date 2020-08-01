@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Antônio Rodrigues\Desktop\Udemy\MACOSX\curso_java\.metadata\.plugins\org.eclipse.jdt.core
+789344348.index
+3654592591.index

@@ -1,0 +1,25 @@
+package arrays;
+
+import java.util.Scanner;
+
+public class Desafio2 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+
+		System.out.println("Quantas notas: ");
+		int qtdeNotas = sc.nextInt();
+		
+		double[] notaAlunos = new double[qtdeNotas];
+		
+		for (int i = 0; i < notaAlunos.length; i++) {
+			System.out.print(notaAlunos );
+		}
+		
+		
+
+		sc.close();
+	}
+
+}
